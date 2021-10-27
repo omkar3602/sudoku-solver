@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include<QLineEdit>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -16,9 +17,12 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_solveButton_clicked();
+    void on__solveButton_clicked();
+
+    void on__clearButton_clicked();
 
 private:
     Ui::MainWindow *ui;
+
 };
 #endif // MAINWINDOW_H

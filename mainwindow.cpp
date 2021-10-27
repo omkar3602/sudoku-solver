@@ -19,7 +19,7 @@ MainWindow::~MainWindow()
 
 void MainWindow::on__solveButton_clicked()
 {
-    const QLineEdit *gridView[] = {
+    QLineEdit *gridView[] = {
         ui->_grid00,
         ui->_grid01,
         ui->_grid02,
@@ -125,7 +125,16 @@ void MainWindow::on__solveButton_clicked()
         std::cout << std::endl;
     }
 
+    // SOLVE SUDOKU HERE (include unsolvable case)
+
     ui->_displayLabel->setText("Sudoku Solved!");
+    for(i = 0; i < 9; i++)
+    {
+        for(j = 0; j < 9; j++)
+        {
+            gridView[(i*9)+j]->setText(QString::number(grid[i][j]));
+        }
+    }
 }
 
 void MainWindow::on__clearButton_clicked()

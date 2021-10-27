@@ -133,5 +133,6 @@ void MainWindow::on__clearButton_clicked()
     foreach(QLineEdit* le, findChildren<QLineEdit*>()) {
        le->clear();
     }
+    ui->_displayLabel->setText("Enter Sudoku Puzzle");
 }
 

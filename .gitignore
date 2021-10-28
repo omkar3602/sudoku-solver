@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+tedit_fix_script.py
+tedit_names.txt

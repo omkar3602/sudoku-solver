@@ -93,9 +93,9 @@
     <property name="geometry">
      <rect>
       <x>100</x>
-      <y>130</y>
+      <y>110</y>
       <width>401</width>
-      <height>311</height>
+      <height>371</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="_grid">
@@ -104,6 +104,12 @@
      </property>
      <item row="4" column="5">
       <widget class="QLineEdit" name="_grid45">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -111,6 +117,12 @@
      </item>
      <item row="6" column="1">
       <widget class="QLineEdit" name="_grid61">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -118,6 +130,12 @@
      </item>
      <item row="8" column="5">
       <widget class="QLineEdit" name="_grid85">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -125,6 +143,12 @@
      </item>
      <item row="7" column="6">
       <widget class="QLineEdit" name="_grid76">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -132,6 +156,12 @@
      </item>
      <item row="1" column="1">
       <widget class="QLineEdit" name="_grid11">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -139,6 +169,12 @@
      </item>
      <item row="3" column="5">
       <widget class="QLineEdit" name="_grid35">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -146,6 +182,12 @@
      </item>
      <item row="2" column="3">
       <widget class="QLineEdit" name="_grid23">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -153,6 +195,12 @@
      </item>
      <item row="0" column="4">
       <widget class="QLineEdit" name="_grid04">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -160,6 +208,12 @@
      </item>
      <item row="1" column="4">
       <widget class="QLineEdit" name="_grid14">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -167,6 +221,12 @@
      </item>
      <item row="2" column="4">
       <widget class="QLineEdit" name="_grid24">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -174,6 +234,12 @@
      </item>
      <item row="3" column="8">
       <widget class="QLineEdit" name="_grid38">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -181,6 +247,12 @@
      </item>
      <item row="6" column="8">
       <widget class="QLineEdit" name="_grid68">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -188,6 +260,12 @@
      </item>
      <item row="6" column="0">
       <widget class="QLineEdit" name="_grid60">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -195,6 +273,12 @@
      </item>
      <item row="0" column="5">
       <widget class="QLineEdit" name="_grid05">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -202,6 +286,12 @@
      </item>
      <item row="6" column="2">
       <widget class="QLineEdit" name="_grid62">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -209,6 +299,12 @@
      </item>
      <item row="5" column="7">
       <widget class="QLineEdit" name="_grid57">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -216,6 +312,12 @@
      </item>
      <item row="3" column="1">
       <widget class="QLineEdit" name="_grid31">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -223,6 +325,12 @@
      </item>
      <item row="4" column="4">
       <widget class="QLineEdit" name="_grid44">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -230,6 +338,12 @@
      </item>
      <item row="8" column="6">
       <widget class="QLineEdit" name="_grid86">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -237,6 +351,12 @@
      </item>
      <item row="6" column="4">
       <widget class="QLineEdit" name="_grid64">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -244,6 +364,12 @@
      </item>
      <item row="3" column="4">
       <widget class="QLineEdit" name="_grid34">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -251,6 +377,12 @@
      </item>
      <item row="5" column="6">
       <widget class="QLineEdit" name="_grid56">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -258,6 +390,12 @@
      </item>
      <item row="2" column="6">
       <widget class="QLineEdit" name="_grid26">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -265,6 +403,12 @@
      </item>
      <item row="3" column="7">
       <widget class="QLineEdit" name="_grid37">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -272,6 +416,12 @@
      </item>
      <item row="7" column="1">
       <widget class="QLineEdit" name="_grid71">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -279,6 +429,12 @@
      </item>
      <item row="8" column="2">
       <widget class="QLineEdit" name="_grid82">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -286,6 +442,12 @@
      </item>
      <item row="1" column="7">
       <widget class="QLineEdit" name="_grid17">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -293,6 +455,12 @@
      </item>
      <item row="6" column="5">
       <widget class="QLineEdit" name="_grid65">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -300,6 +468,12 @@
      </item>
      <item row="8" column="4">
       <widget class="QLineEdit" name="_grid84">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -307,6 +481,12 @@
      </item>
      <item row="2" column="2">
       <widget class="QLineEdit" name="_grid22">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -314,6 +494,12 @@
      </item>
      <item row="8" column="8">
       <widget class="QLineEdit" name="_grid88">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -321,6 +507,12 @@
      </item>
      <item row="7" column="5">
       <widget class="QLineEdit" name="_grid75">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -328,6 +520,12 @@
      </item>
      <item row="1" column="3">
       <widget class="QLineEdit" name="_grid13">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -335,6 +533,12 @@
      </item>
      <item row="7" column="8">
       <widget class="QLineEdit" name="_grid78">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -342,6 +546,12 @@
      </item>
      <item row="0" column="8">
       <widget class="QLineEdit" name="_grid08">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -349,6 +559,12 @@
      </item>
      <item row="6" column="3">
       <widget class="QLineEdit" name="_grid63">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -356,6 +572,12 @@
      </item>
      <item row="8" column="1">
       <widget class="QLineEdit" name="_grid81">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -363,6 +585,12 @@
      </item>
      <item row="1" column="2">
       <widget class="QLineEdit" name="_grid12">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -370,6 +598,12 @@
      </item>
      <item row="2" column="1">
       <widget class="QLineEdit" name="_grid21">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -377,6 +611,12 @@
      </item>
      <item row="6" column="6">
       <widget class="QLineEdit" name="_grid66">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -384,6 +624,12 @@
      </item>
      <item row="5" column="1">
       <widget class="QLineEdit" name="_grid51">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -391,6 +637,12 @@
      </item>
      <item row="4" column="1">
       <widget class="QLineEdit" name="_grid41">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -398,6 +650,12 @@
      </item>
      <item row="4" column="7">
       <widget class="QLineEdit" name="_grid47">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -405,6 +663,12 @@
      </item>
      <item row="8" column="0">
       <widget class="QLineEdit" name="_grid80">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -412,6 +676,12 @@
      </item>
      <item row="8" column="3">
       <widget class="QLineEdit" name="_grid83">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -419,6 +689,12 @@
      </item>
      <item row="4" column="2">
       <widget class="QLineEdit" name="_grid42">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -426,6 +702,23 @@
      </item>
      <item row="0" column="0">
       <widget class="QLineEdit" name="_grid00">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property><property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="text">
         <string/>
        </property>
@@ -436,6 +729,12 @@
      </item>
      <item row="2" column="7">
       <widget class="QLineEdit" name="_grid27">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -443,6 +742,12 @@
      </item>
      <item row="0" column="7">
       <widget class="QLineEdit" name="_grid07">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -450,6 +755,12 @@
      </item>
      <item row="6" column="7">
       <widget class="QLineEdit" name="_grid67">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -457,6 +768,12 @@
      </item>
      <item row="7" column="4">
       <widget class="QLineEdit" name="_grid74">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -464,6 +781,18 @@
      </item>
      <item row="0" column="2">
       <widget class="QLineEdit" name="_grid02">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>40</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -471,6 +800,12 @@
      </item>
      <item row="3" column="2">
       <widget class="QLineEdit" name="_grid32">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -478,6 +813,12 @@
      </item>
      <item row="7" column="3">
       <widget class="QLineEdit" name="_grid73">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -485,6 +826,12 @@
      </item>
      <item row="5" column="3">
       <widget class="QLineEdit" name="_grid53">
+      <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -492,6 +839,12 @@
      </item>
      <item row="2" column="8">
       <widget class="QLineEdit" name="_grid28">
+      <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -499,6 +852,12 @@
      </item>
      <item row="4" column="6">
       <widget class="QLineEdit" name="_grid46">
+      <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -506,6 +865,12 @@
      </item>
      <item row="7" column="7">
       <widget class="QLineEdit" name="_grid77">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -513,6 +878,12 @@
      </item>
      <item row="1" column="8">
       <widget class="QLineEdit" name="_grid18">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -520,6 +891,12 @@
      </item>
      <item row="1" column="5">
       <widget class="QLineEdit" name="_grid15">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -527,6 +904,12 @@
      </item>
      <item row="5" column="8">
       <widget class="QLineEdit" name="_grid58">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -534,6 +917,18 @@
      </item>
      <item row="0" column="3">
       <widget class="QLineEdit" name="_grid03">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -541,6 +936,12 @@
      </item>
      <item row="3" column="0">
       <widget class="QLineEdit" name="_grid30">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -548,6 +949,12 @@
      </item>
      <item row="4" column="3">
       <widget class="QLineEdit" name="_grid43">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -555,6 +962,12 @@
      </item>
      <item row="3" column="6">
       <widget class="QLineEdit" name="_grid36">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -562,6 +975,12 @@
      </item>
      <item row="5" column="2">
       <widget class="QLineEdit" name="_grid52">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -569,6 +988,12 @@
      </item>
      <item row="5" column="5">
       <widget class="QLineEdit" name="_grid55">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -576,6 +1001,12 @@
      </item>
      <item row="5" column="4">
       <widget class="QLineEdit" name="_grid54">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -583,6 +1014,18 @@
      </item>
      <item row="0" column="1">
       <widget class="QLineEdit" name="_grid01">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -590,6 +1033,12 @@
      </item>
      <item row="2" column="5">
       <widget class="QLineEdit" name="_grid25">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -597,6 +1046,12 @@
      </item>
      <item row="4" column="8">
       <widget class="QLineEdit" name="_grid48">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -604,6 +1059,12 @@
      </item>
      <item row="1" column="6">
       <widget class="QLineEdit" name="_grid16">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -611,6 +1072,12 @@
      </item>
      <item row="2" column="0">
       <widget class="QLineEdit" name="_grid20">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -618,6 +1085,12 @@
      </item>
      <item row="4" column="0">
       <widget class="QLineEdit" name="_grid40">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -625,6 +1098,12 @@
      </item>
      <item row="5" column="0">
       <widget class="QLineEdit" name="_grid50">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -632,6 +1111,12 @@
      </item>
      <item row="7" column="0">
       <widget class="QLineEdit" name="_grid70">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -639,6 +1124,12 @@
      </item>
      <item row="7" column="2">
       <widget class="QLineEdit" name="_grid72">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -646,6 +1137,12 @@
      </item>
      <item row="3" column="3">
       <widget class="QLineEdit" name="_grid33">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -653,6 +1150,12 @@
      </item>
      <item row="8" column="7">
       <widget class="QLineEdit" name="_grid87">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -660,6 +1163,12 @@
      </item>
      <item row="0" column="6">
       <widget class="QLineEdit" name="_grid06">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>
@@ -667,6 +1176,12 @@
      </item>
      <item row="1" column="0">
       <widget class="QLineEdit" name="_grid10">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>40</height>
+        </size>
+       </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
        </property>

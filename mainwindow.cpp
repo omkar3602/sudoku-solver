@@ -16,7 +16,6 @@ MainWindow::~MainWindow()
 }
 
 
-
 void MainWindow::on__solveButton_clicked()
 {
     QLineEdit *gridView[] = {
@@ -103,6 +102,8 @@ void MainWindow::on__solveButton_clicked()
         ui->_grid88,
     };
 
+    QPalette *green_color = new QPalette();
+    green_color->setColor(QPalette::Text,Qt::green);
 
     int i, j;
     int grid[9][9];
@@ -114,18 +115,20 @@ void MainWindow::on__solveButton_clicked()
             grid[i][j] = gridView[(i*9)+j]->text().toInt();
         }
     }
-
     std::cout << std::endl;
     for(i = 0; i < 9; i++)
     {
         for(j = 0; j < 9; j++)
         {
             std::cout << grid[i][j] << " ";
+            if(grid[i][j] == 0)
+                gridView[(i*9)+j]->setPalette(*green_color);
         }
         std::cout << std::endl;
     }
 
     // SOLVE SUDOKU HERE (include unsolvable case)
+
 
     ui->_displayLabel->setText("Sudoku Solved!");
     for(i = 0; i < 9; i++)
@@ -139,8 +142,12 @@ void MainWindow::on__solveButton_clicked()
 
 void MainWindow::on__clearButton_clicked()
 {
+    QPalette *black_color = new QPalette();
+    black_color->setColor(QPalette::Text,Qt::black);
+
     foreach(QLineEdit* le, findChildren<QLineEdit*>()) {
-       le->clear();
+        le->setPalette(*black_color);
+        le->clear();
     }
     ui->_displayLabel->setText("Enter Sudoku Puzzle");
 }
